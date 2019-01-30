@@ -165,7 +165,7 @@ textarea:focus {
 .wd_slider_wrapper{
 	float:left;
 	width:100%;
-	background:url(../images/newheader/main.jpg);
+	background:url(/images/newheader/main.jpg);
 	position:relative;
     background-attachment: fixed;
     position: relative;
@@ -660,7 +660,7 @@ textarea:focus {
 .wd_about_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/about_bg.jpg);
+	background-image:url(/images/content/about_bg.jpg);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
@@ -903,7 +903,7 @@ textarea:focus {
 .wd_story_wrapper{
 	float:left;
 	width:100%;
-	background:url('../images/content/family_bg.jpg');
+	background:url('/images/content/family_bg.jpg');
 	height:100%;
 	z-index:0;
 }
@@ -1050,7 +1050,7 @@ textarea:focus {
 .wd_event_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/event_bg.jpg);
+	background-image:url(/images/content/event_bg.jpg);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
@@ -1119,7 +1119,7 @@ textarea:focus {
 .wd_overlay{
     content: "";
     position: absolute;
-    background-image: url(../images/content/dot_bg.png);
+    background-image: url(/images/content/dot_bg.png);
     background-color: rgba(0, 0, 0, 0.8);
     top: 0;
     left: 0;
@@ -1270,7 +1270,7 @@ textarea:focus {
 .wd_family_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/family_bg.jpg);
+	background-image:url(/images/content/family_bg.jpg);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
@@ -1713,7 +1713,7 @@ textarea:focus {
 .wd_blog_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/blog_bg.jpg);
+	background-image:url(/images/content/blog_bg.jpg);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
@@ -1821,7 +1821,7 @@ textarea:focus {
 .wd_contact_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/contact_bg.jpg);
+	background-image:url(/images/content/contact_bg.jpg);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
@@ -1831,7 +1831,7 @@ textarea:focus {
 .wd_overlay{
     content: "";
     position: absolute;
-    background-image: url(../images/content/dot_bg.png);
+    background-image: url(/images/content/dot_bg.png);
     background-color: rgba(0, 0, 0, 0.8);
     top: 0;
     left: 0;
@@ -1892,7 +1892,7 @@ textarea:focus {
 .wd_footer_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/footer_bg.jpg);
+	background-image:url(/images/content/footer_bg.jpg);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
