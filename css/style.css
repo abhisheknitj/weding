@@ -165,7 +165,7 @@ textarea:focus {
 .wd_slider_wrapper{
 	float:left;
 	width:100%;
-	background:url(../images/newheader/main.jpg);
+	background:url(../images/newheader/main.JPG);
 	position:relative;
     background-attachment: fixed;
     position: relative;
@@ -177,7 +177,7 @@ textarea:focus {
 	float:left;
 	width:100%;
 	height:100%;
-	background:url('../images/newcontent/event1.jpg') 100% 0 repeat-y;
+	background:url('../images/newcontent/event1.JPG') 100% 0 repeat-y;
 	position:relative;
     background-size: cover;
     background-position: center 0;
@@ -660,7 +660,7 @@ textarea:focus {
 .wd_about_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/about_bg.jpg);
+	background-image:url(../images/content/about_bg.JPG);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
@@ -903,7 +903,7 @@ textarea:focus {
 .wd_story_wrapper{
 	float:left;
 	width:100%;
-	background:url('../images/content/family_bg.jpg');
+	background:url('../images/content/family_bg.JPG');
 	height:100%;
 	z-index:0;
 }
@@ -1050,7 +1050,7 @@ textarea:focus {
 .wd_event_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/event_bg.jpg);
+	background-image:url(../images/content/event_bg.JPG);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
@@ -1109,7 +1109,7 @@ textarea:focus {
 .wd_guest_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/guest_bg.jpg);
+	background-image:url(../images/newcontent/guest_bg.JPG);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
@@ -1270,7 +1270,7 @@ textarea:focus {
 .wd_family_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/family_bg.jpg);
+	background-image:url(../images/content/family_bg.JPG);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
@@ -1713,7 +1713,7 @@ textarea:focus {
 .wd_blog_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/blog_bg.jpg);
+	background-image:url(/images/content/blog_bg.jpg);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
@@ -1892,7 +1892,7 @@ textarea:focus {
 .wd_footer_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(../images/content/footer_bg.jpg);
+	background-image:url(/images/content/footer_bg.jpg);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
